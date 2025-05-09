@@ -1,0 +1,19 @@
+{
+  "name": "moneytracking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "node --experimental-vm-][=modules node_modules/.bin/jest",
+  "start": "nodemon js/main.js"
+},
+
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.9"
+  }
+}
